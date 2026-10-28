@@ -52,3 +52,5 @@ This project is created for educational purposes only. It is inspired by Myntra 
 ---
 
 **Created as a learning project using HTML and CSS.**
+shreya
+html
