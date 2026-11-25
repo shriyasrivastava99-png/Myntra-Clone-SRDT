@@ -35,5 +35,20 @@ A beginner-friendly, multi-page fashion shopping website inspired by modern onli
 ## Important note
 This is a front-end educational demo. Product names and prices are sample content. The bag, wishlist and newsletter form demonstrate browser-side interactions only; there is no real inventory, account system, order processing or payment gateway.
 
+<<<<<<< HEAD
 ## Credits
 The design is independently created for learning and is inspired by the general fashion e-commerce experience. Remote editorial/product images are loaded from Unsplash. This project is not affiliated with or endorsed by Myntra.
+=======
+## Future Improvements
+- Add JavaScript for interactive features.
+- Implement a functional shopping cart.
+- Add product search and filtering.
+- Improve the website's responsive design.
+
+## Disclaimer
+This project is created for educational purposes only. It is inspired by Myntra and is not affiliated with or endorsed by the official Myntra platform.
+
+---
+
+**Created as a learning project using HTML and CSS.**
+>>>>>>> f5f00e8da87453cae912e4544c401bf773daeff4
