@@ -1,56 +1,39 @@
-# Myntra-Clone-SRDT
-Myntra Clone is a fashion shopping website created using HTML and CSS. It features separate sections for men’s, women’s, kids’ clothing, and beauty products, with product images, prices, and easy navigation.
-# Myntra Clone - My Fashion Store
+# Style Avenue — Myntra-inspired Fashion Store
 
-## About the Project
-Myntra Clone is a basic fashion shopping website developed using **HTML and CSS**. The project is inspired by the Myntra online shopping platform and provides a simple, user-friendly interface for exploring fashion and beauty products.
+A beginner-friendly, multi-page fashion shopping website inspired by modern online fashion stores. Built as a student learning project using HTML, CSS and JavaScript.
+
+## Pages
+- `index.html` — landing page, category tiles and featured products
+- `men.html` — men's collection
+- `women.html` — women's collection
+- `kids.html` — kids' collection
+- `beauty.html` — beauty and self-care collection
 
 ## Features
-- **Home Page:** Displays the website introduction and shopping categories.
-- **Men's Collection:** Showcases fashion products for men.
-- **Women's Collection:** Displays women's clothing and fashion items.
-- **Kids' Collection:** Features clothing and products for kids.
-- **Beauty Section:** Showcases beauty and personal care products.
-- **Navigation Bar:** Allows users to move between different pages.
-- **Product Display:** Includes product images, names, and sample prices.
+- Shared navigation across all pages
+- Responsive layout for desktop, tablet and mobile
+- Product search and category filters
+- Add-to-bag interaction with item count and subtotal
+- Wishlist toggle on product cards
+- Light/dark theme toggle
+- Newsletter form with basic front-end validation
+- Google Fonts, Font Awesome icons and Bootstrap grid utilities
 
-## Technologies Used
-- **HTML5:** Used to create the structure of the website.
-- **CSS3:** Used to style the pages, align content, and improve the overall appearance.
+## Technologies and learning topics
+**HTML:** document structure, semantic sections, headings, paragraphs, links, images, navigation, forms, labels, buttons, inputs, attributes and accessibility text.
 
-## Project Structure
-```text
-Myntra-Clone/
-│
-├── index.html
-├── men.html
-├── women.html
-├── kids.html
-├── beauty.html
-└── style.css
-```
+**CSS:** external stylesheet, a small internal style example on the home page, inline style example on a product label, universal/element/group/class/ID/descendant selectors, colors (HEX/RGB/alpha), backgrounds, dimensions, absolute units (px), text and font properties, web-safe fallback fonts, Google Fonts, visibility, Flexbox, float, CSS Grid, hover states, responsive media queries and Bootstrap classes.
 
-## How to Run the Project
+**JavaScript:** variables, data types, operators, `if/else`, `switch`, arrays, strings, objects, `for`, `while`, `do...while`, `for...in`, `for...of`, array methods (`filter`, `map`, `find`, `includes`, `reduce`, `forEach`), functions with and without parameters, callback functions and arrow functions.
+
+## Run locally
 1. Download or clone this repository.
-2. Open the project folder in Visual Studio Code.
-3. Make sure all HTML files and the CSS file are in the same folder.
-4. Open `index.html` in a web browser.
-5. Use the navigation bar to explore different categories.
+2. Open the folder in Visual Studio Code.
+3. Open `index.html` in a browser (or use the Live Server extension).
+4. Keep an internet connection for remote product images, Google Fonts, Font Awesome and Bootstrap CDN files.
 
-## Learning Outcomes
-Through this project, I practised HTML page structuring, CSS selectors, colors, backgrounds, text alignment, image display, links, and basic webpage layout.
+## Important note
+This is a front-end educational demo. Product names and prices are sample content. The bag, wishlist and newsletter form demonstrate browser-side interactions only; there is no real inventory, account system, order processing or payment gateway.
 
-## Future Improvements
-- Add JavaScript for interactive features.
-- Implement a functional shopping cart.
-- Add product search and filtering.
-- Improve the website's responsive design.
-
-## Disclaimer
-This project is created for educational purposes only. It is inspired by Myntra and is not affiliated with or endorsed by the official Myntra platform.
-
----
-
-**Created as a learning project using HTML and CSS.**
-shreya
-html
+## Credits
+The design is independently created for learning and is inspired by the general fashion e-commerce experience. Remote editorial/product images are loaded from Unsplash. This project is not affiliated with or endorsed by Myntra.
